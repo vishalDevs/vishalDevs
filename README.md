@@ -58,47 +58,6 @@ Every day, I try to improve a little more — learning, building, breaking, and 
 
 ---
 
-## 💻 Projects
-- [Portfolio Website](https://github.com/your-username/portfolio) – Personal portfolio using React & Tailwind  
-- [E-commerce App](https://github.com/your-username/ecommerce) – Full-stack app with Django & React  
-- [Chat Application](https://github.com/your-username/chat-app) – Real-time chat using Node.js & Socket.io  
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-## 📫 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/your-instagram/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.facebook.com/your-facebook/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
-  </a>
-  <a href="mailto:pushkarsingh@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/your-username" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
 
 
 ## 💻 Personal Projects
@@ -106,6 +65,7 @@ Every day, I try to improve a little more — learning, building, breaking, and 
 - [E-commerce App](https://github.com/username/ecommerce) - Full-stack app with Django & React
 - [Learning-Websites](https://techbit.netlify.app/) - Real-time chat using Node.js & Socket.io
 
+---
 
 ## 📫 Connect with Me
 
