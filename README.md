@@ -5,6 +5,7 @@
 💡 I enjoy converting ideas into real-world projects and solving technical problems with **creativity and precision**.  
 🚀 Every day, I strive to improve a little more — learning, building, breaking, and rebuilding.
 
+---
 
 ✨ **FUN FACTS**
 <table>
@@ -97,7 +98,6 @@
   </a>
 </p>
 ---
-## 👁️ Add Visitor Badge ##
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vishalDevs.vishalDevs)
+
 
 
