@@ -15,33 +15,90 @@ Every day, I try to improve a little more — learning, building, breaking, and 
 
 📫 Reach me on Instagram: (https://www.instagram.com/sidhsharma_404/)
 
-## 🛠️ Skills & Technologies
+## 🛠️ Skills / Expertise & Technologies
 ![Python](https://img.shields.io/badge/Python-80%25-green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-65%25-yellow)
 ![React](https://img.shields.io/badge/React-80%25-blue)
 ![Django](https://img.shields.io/badge/Django-75%25-brightgreen)
-![Git](https://img.shields.io/badge/Git-85%25-red)
+![Git](https://img.shields.io/badge/Git&GitHub-85%25-red)
+![Git](https://img.shields.io/badge/Docker-70%25-red)
 
-## 🤖 Expertise & Skills
 
-### **💻 Programming & Web Development**
-- Python 🐍 | JavaScript ⚡ | HTML5 & CSS3 🎨
-- Frameworks: React ⚛️ | Node.js 🌐 | Django 🏗️
-- Tools: Git & GitHub 🧰 | VS Code 💻 | Docker 🐳
 
-### **🧠 Artificial Intelligence & Machine Learning**
-- Machine Learning 🏋️‍♂️: Regression, Classification, Clustering  
-- Deep Learning 🤖: Artificial Neural Networks (ANN)  
-- Computer Vision 🖼️: Image Processing, Object Detection, OpenCV  
 
-### **📊 Data Science & Analytics**
-- Libraries: NumPy, Pandas, Matplotlib, Seaborn  
-- Data Preprocessing, Feature Engineering, Model Evaluation  
+### 💻 Programming & Web Development
+- Python 🐍       ┃ ██████████ 80%  
+- JavaScript ⚡   ┃ ████████░░ 75%  
+- HTML5 & CSS3 🎨 ┃ █████████░ 85%  
+- React ⚛️        ┃ ████████░░ 80%  
+- Node.js 🌐      ┃ ███████░░░ 70%  
+- Django 🏗️       ┃ ████████░░ 75%  
+- Git & GitHub 🧰 ┃ █████████░ 85%  
+- VS Code 💻      ┃ ██████████ 90%  
+- Docker 🐳       ┃ ███████░░░ 70%  
 
-### **🛠️ Other Skills**
-- OpenCV & TensorFlow / Keras  
-- Scikit-Learn & PyTorch  
-- Problem Solving & Algorithm Design
+### 🧠 Artificial Intelligence & Machine Learning
+- Machine Learning 🏋️‍♂️ ┃ ████████░░ 80%  
+- Deep Learning 🤖 ┃ ███████░░░ 70%  
+- Artificial Neural Networks (ANN) 🧠 ┃ ███████░░░ 70%  
+- Computer Vision 🖼️ ┃ ███████░░░ 70%  
+
+### 📊 Data Science & Analytics
+- NumPy 📐 ┃ ██████████ 90%  
+- Pandas 🐼 ┃ █████████░ 85%  
+- Matplotlib 📊 ┃ ████████░░ 80%  
+- Seaborn 🌈 ┃ ████████░░ 80%  
+- Data Preprocessing & Feature Engineering 🧩 ┃ ████████░░ 80%  
+
+### 🛠️ Other Skills
+- TensorFlow / Keras 🤖 ┃ ███████░░░ 70%  
+- PyTorch 🔥 ┃ ███████░░░ 70%  
+- OpenCV 🖥️ ┃ ███████░░░ 70%  
+- Problem Solving & Algorithm Design 🧠 ┃ █████████░ 85%  
+
+---
+
+## 💻 Projects
+- [Portfolio Website](https://github.com/your-username/portfolio) – Personal portfolio using React & Tailwind  
+- [E-commerce App](https://github.com/your-username/ecommerce) – Full-stack app with Django & React  
+- [Chat Application](https://github.com/your-username/chat-app) – Real-time chat using Node.js & Socket.io  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/your-instagram/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/your-facebook/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:pushkarsingh@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/your-username" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
 
 ## 💻 Personal Projects
