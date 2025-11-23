@@ -1,27 +1,40 @@
 
+👨‍💻 **Self-taught Developer from India**  
 
-👨‍💻 Self-taught Developer from India, passionate about crafting clean and powerful digital experiences.
-I enjoy converting ideas into real-world projects and solving technical problems with creativity and precision.
-Every day, I try to improve a little more — learning, building, breaking, and rebuilding.
+✨ Passionate about crafting **clean and powerful digital experiences**.  
+💡 I enjoy converting ideas into real-world projects and solving technical problems with **creativity and precision**.  
+🚀 Every day, I strive to improve a little more — learning, building, breaking, and rebuilding.
 
-✨ **Fun Fact**
-<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30">
 
-🔭 Currently cooking something exciting in my code kitchen!
+✨ **FUN FACTS**
+<table>
+  <tr>
+    <td>
+      <img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="80">
+    </td>
+    <td>
+      <ul>
+        <li>🔭 <b>Currently cooking:</b> Something exciting in my code kitchen!</li>
+        <li>👯 <b>Collaboration:</b> Always open to collaborating on epic and innovative projects.</li>
+        <li>💬 <b>Ask me anything:</b> Even about nothing, because doing nothing is also an art!</li>
+        <li>📫 <b>Reach me on Instagram:</b> <a href="https://www.instagram.com/sidhsharma_404/">@sidhsharma_404</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-👯 Always open to collaborating on epic and innovative projects.
+---
 
-💬 Ask me anything — even about nothing, because doing nothing is also an art!
 
-📫 Reach me on Instagram: (https://www.instagram.com/sidhsharma_404/)
+
+
 
 ## 🛠️ Skills / Expertise & Technologies
 ![Python](https://img.shields.io/badge/Python-80%25-green)
 ![JavaScript](https://img.shields.io/badge/JavaScript-65%25-yellow)
 ![React](https://img.shields.io/badge/React-80%25-blue)
-![Django](https://img.shields.io/badge/Django-75%25-brightgreen)
+![Django](https://img.shields.io/badge/Node.js-75%25-brightgreen)
 ![Git](https://img.shields.io/badge/Git&GitHub-85%25-red)
-![Git](https://img.shields.io/badge/Docker-70%25-red)
 
 
 
@@ -32,10 +45,8 @@ Every day, I try to improve a little more — learning, building, breaking, and 
 - HTML5 & CSS3 🎨 ┃ █████████░ 85%  
 - React ⚛️        ┃ ████████░░ 80%  
 - Node.js 🌐      ┃ ███████░░░ 70%  
-- Django 🏗️       ┃ ████████░░ 75%  
 - Git & GitHub 🧰 ┃ █████████░ 85%  
 - VS Code 💻      ┃ ██████████ 90%  
-- Docker 🐳       ┃ ███████░░░ 70%  
 
 ### 🧠 Artificial Intelligence & Machine Learning
 - Machine Learning 🏋️‍♂️ ┃ ████████░░ 80%  
@@ -47,8 +58,6 @@ Every day, I try to improve a little more — learning, building, breaking, and 
 - NumPy 📐 ┃ ██████████ 90%  
 - Pandas 🐼 ┃ █████████░ 85%  
 - Matplotlib 📊 ┃ ████████░░ 80%  
-- Seaborn 🌈 ┃ ████████░░ 80%  
-- Data Preprocessing & Feature Engineering 🧩 ┃ ████████░░ 80%  
 
 ### 🛠️ Other Skills
 - TensorFlow / Keras 🤖 ┃ ███████░░░ 70%  
@@ -61,6 +70,7 @@ Every day, I try to improve a little more — learning, building, breaking, and 
 
 
 ## 💻 Personal Projects
+
 - [Government_Project](https://yojna.netlify.app/) - Attractive & Responsive with BootStrap & HTML & CSS & JavaScript
 - [E-commerce App](https://github.com/username/ecommerce) - Full-stack app with Django & React
 - [Learning-Websites](https://techbit.netlify.app/) - Real-time chat using Node.js & Socket.io
@@ -86,3 +96,8 @@ Every day, I try to improve a little more — learning, building, breaking, and 
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
+---
+## 👁️ Add Visitor Badge ##
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=vishalDevs.vishalDevs)
+
+
