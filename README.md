@@ -1,16 +1,16 @@
-## Hi there 👋
+vishalDevs/README.md
 
-<!--
-**vishalDevs/vishalDevs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 Self-taught Developer from India, passionate about crafting clean and powerful digital experiences.
+I enjoy converting ideas into real-world projects and solving technical problems with creativity and precision.
+Every day, I try to improve a little more — learning, building, breaking, and rebuilding.
 
-Here are some ideas to get you started:
+✨ Fun Fact
+<img src="https://github.githubassets.com/images/icons/emoji/octocat.png" width="30">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 Currently cooking something exciting in my code kitchen!
+
+👯 Always open to collaborating on epic and innovative projects.
+
+💬 Ask me anything — even about nothing, because doing nothing is also an art!
+
+📫 Reach me on Instagram: @ig_pushkarsingh
