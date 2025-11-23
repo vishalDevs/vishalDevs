@@ -37,10 +37,28 @@ Git & GitHub 🧰 ┃ █████████░ 85%
 VS Code 💻     ┃ ██████████ 90%  
 Docker 🐳      ┃ ███████░░░ 70%
 
-## 💻 Projects
-- [Portfolio Website](https://github.com/username/portfolio) - Personal portfolio using React & Tailwind
+## 💻 Personal Projects
 - [Government_Project](https://yojna.netlify.app/) - Attractive & Responsive with BootStrap & HTML & CSS & JavaScript
 - [E-commerce App](https://github.com/username/ecommerce) - Full-stack app with Django & React
 - [Learning-Websites](https://techbit.netlify.app/) - Real-time chat using Node.js & Socket.io
-- 
 
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/sidhsharma_404/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.facebook.com/abishakraj.abishekraj" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+  <a href="mailto:vishalkr91023@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/vishal-kumar-8a87a9246/" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
