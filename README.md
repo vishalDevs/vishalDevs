@@ -16,26 +16,33 @@ Every day, I try to improve a little more — learning, building, breaking, and 
 📫 Reach me on Instagram: (https://www.instagram.com/sidhsharma_404/)
 
 ## 🛠️ Skills & Technologies
-![Python](https://img.shields.io/badge/Python-90%25-green)
-![JavaScript](https://img.shields.io/badge/JavaScript-75%25-yellow)
+![Python](https://img.shields.io/badge/Python-80%25-green)
+![JavaScript](https://img.shields.io/badge/JavaScript-65%25-yellow)
 ![React](https://img.shields.io/badge/React-80%25-blue)
 ![Django](https://img.shields.io/badge/Django-75%25-brightgreen)
 ![Git](https://img.shields.io/badge/Git-85%25-red)
 
-**Languages**  
-Python 🐍       ┃ ██████████ 80%  
-JavaScript ⚡   ┃ ████████░░ 65%  
-HTML5 & CSS3 🎨 ┃ █████████░ 85%  
+## 🤖 Expertise & Skills
 
-**Frameworks**  
-React ⚛️       ┃ ████████░░ 80%  
-Node.js 🌐     ┃ ███████░░░ 70%  
-Django 🏗️     ┃ ████████░░ 75%  
+### **💻 Programming & Web Development**
+- Python 🐍 | JavaScript ⚡ | HTML5 & CSS3 🎨
+- Frameworks: React ⚛️ | Node.js 🌐 | Django 🏗️
+- Tools: Git & GitHub 🧰 | VS Code 💻 | Docker 🐳
 
-**Tools**  
-Git & GitHub 🧰 ┃ █████████░ 85%  
-VS Code 💻     ┃ ██████████ 90%  
-Docker 🐳      ┃ ███████░░░ 70%
+### **🧠 Artificial Intelligence & Machine Learning**
+- Machine Learning 🏋️‍♂️: Regression, Classification, Clustering  
+- Deep Learning 🤖: Artificial Neural Networks (ANN)  
+- Computer Vision 🖼️: Image Processing, Object Detection, OpenCV  
+
+### **📊 Data Science & Analytics**
+- Libraries: NumPy, Pandas, Matplotlib, Seaborn  
+- Data Preprocessing, Feature Engineering, Model Evaluation  
+
+### **🛠️ Other Skills**
+- OpenCV & TensorFlow / Keras  
+- Scikit-Learn & PyTorch  
+- Problem Solving & Algorithm Design
+
 
 ## 💻 Personal Projects
 - [Government_Project](https://yojna.netlify.app/) - Attractive & Responsive with BootStrap & HTML & CSS & JavaScript
