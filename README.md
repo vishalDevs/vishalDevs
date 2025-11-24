@@ -36,6 +36,7 @@
 ![React](https://img.shields.io/badge/React-80%25-blue)
 ![Django](https://img.shields.io/badge/Node.js-75%25-brightgreen)
 ![Git](https://img.shields.io/badge/Git&GitHub-85%25-red)
+![Git](https://img.shields.io/badge/VsCode-85%25-green)
 
 
 
@@ -98,6 +99,8 @@
   </a>
 </p>
 ---
+
+## 
 
 
 
