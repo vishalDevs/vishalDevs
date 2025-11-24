@@ -74,9 +74,10 @@
 ## 💻 Personal Projects
 
 - [Government_Project](https://yojna.netlify.app/) - Attractive & Responsive with BootStrap & HTML & CSS & JavaScript
-- [E-commerce App](https://github.com/username/ecommerce) - Full-stack app with Django & React
+- [E-commerce App](https://my-fancy.netlify.app/) - Full-stack app with Django & React
 - [Learning-Websites](https://techbit.netlify.app/) - Real-time chat using Node.js & Socket.io
 - [Weather-App](https://weather-wild.netlify.app/) - real time weather application with weather API & js & html & css
+- 
   
 
 ---
